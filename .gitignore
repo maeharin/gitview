@@ -1,4 +1,8 @@
 /.bundle/
 /vendor/bundle/
-/db/*.sqlite3
-/tmp/
+
+/db/*
+!/db/.gitkeep
+
+/tmp/*
+!/tmp/.gitkeep
