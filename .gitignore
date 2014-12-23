@@ -1,0 +1,4 @@
+/.bundle/
+/vendor/bundle/
+/db/*.sqlite3
+/tmp/
