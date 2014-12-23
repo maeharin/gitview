@@ -18,8 +18,8 @@ $ bundle install --path vendor/bundle
 $ bundle exec ruby ./scripts/import.rb **git repository path**
 
 $ bundle exec shotgun
+```
 
 see http://localhost:9393/
-```
 
 ![rails commit](https://github.com/maeharin/gitview/raw/master/screen_shot.png)
