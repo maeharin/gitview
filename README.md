@@ -23,3 +23,7 @@ $ bundle exec shotgun
 see http://localhost:9393/
 
 ![rails commit](https://github.com/maeharin/gitview/raw/master/screen_shot.png)
+
+## mechanism
+
+git log => sqlite3 => sinatra & d3.js
